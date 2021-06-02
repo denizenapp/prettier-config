@@ -1,5 +1,5 @@
 {
-	"name": "prettier-config",
+	"name": "prettier-config-denizenapp",
 	"version": "1.0.0",
 	"description": "Shared Prettier config for Denizenapp projects",
 	"main": "index.js",
@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/denizenapp/prettier-config.git"
+		"url": "git+https://github.com/denizenapp/prettier-config-denizenapp.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/denizenapp/prettier-config/issues"
+		"url": "https://github.com/denizenapp/prettier-config-denizenapp/issues"
 	},
-	"homepage": "https://github.com/denizenapp/prettier-config#readme",
+	"homepage": "https://github.com/denizenapp/prettier-config-denizenapp#readme",
 	"peerDependencies": {
 		"prettier": "^2.3.0"
 	}

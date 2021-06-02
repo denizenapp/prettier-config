@@ -1,4 +1,4 @@
-# denizenapp/prettier-config
+# denizenapp/prettier-config-denizenapp
 
 Shared Prettier config for Denizenapp projects.
 
@@ -10,11 +10,11 @@ Usage is based on [Sharing configurations](https://prettier.io/docs/en/configura
 1. Install the config directly from Github (for now).
 
     ```
-    npm install -D denizenapp/prettier-config#main
+    npm install -D denizenapp/prettier-config-denizenapp#main
     ```
 
 1. Add the following to `package.json`:
 
     ```
-    "prettier": "prettier-config"
+    "prettier": "prettier-config-denizenapp"
     ```
